@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Andre!
 
-### 🇧🇷 Senior Software Engineer | Backend Specialist | Cloud & ML Engineering Enthusiast
+### 🇧🇷 Staff Software Engineer | Backend Specialist | Cloud & ML Engineering Enthusiast
 
 I’ve been working professionally as a **Senior Software Engineer**, specializing in designing and building **high-performance REST APIs** and distributed backend systems.
 
